@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .wrapper {
   display: flex;  
   flex-flow: row wrap;
@@ -243,4 +244,54 @@ button:hover, a:hover {
   font-weight: bold;
   font-size: 3em;
   text-align: center;
+=======
+body {
+  font-display: Arial;
+}
+.container{
+  display: grid;
+  /*grid-template-columns:25% 50% 25%;
+  grid-template-rows:300px 300px;*/
+  /* grid-template: 300px 150px / repeat(4, 1fr); */
+  grid-template: 100px 1fr 150px / 200px 1fr;
+  grid-gap: 10px;
+  height:100vh;
+  grid-template-areas: "header header"
+                       "left contenido"
+                       "footer footer"
+}
+.item {
+  //This is to automatically inspect all the elements
+  background: lightblue;
+  padding: 10px;
+  border: 1px solid red;
+  
+}
+.item:nth-of-type(4){
+  background: whitesmoke;
+  overflow: auto;
+  /*display: subgrid;*/
+  display: grid;
+  /*display:inline-grid;*/
+  grid-template: 50px 50px 50px / 200% 200px 200px;
+}
+.item .item{
+  background: lightgray;
+}
+.header{
+  grid-area:header;
+  background-color: lightgray;
+}
+.left{
+  grid-area:left;
+  background-color: lightgray;
+}
+.contenido{
+  grid-area:contenido;
+  background-color: lightgray;
+}
+.footer{
+  grid-area:footer;
+  background-color: lightgray;
+>>>>>>> 6b4caac20c387bcc4ef617ca055c411c5285f721
 }
