@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mavic Zoom
 https://cdn.pixabay.com/photo/2019/05/26/22/55/drone-4231479_960_720.jpg
 
@@ -32,3 +33,39 @@ https://www.yuneec.com/assets/images/3/Mantis-Q-foldable-camera-drone-0f97d5eb.j
 #Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Emu1ndRcnws?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+# Mavic Zoom
+https://cdn.pixabay.com/photo/2019/05/26/22/55/drone-4231479_960_720.jpg
+
+#Video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LZ-5VC3YbDo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------------------
+
+# Parrot ANAFI
+https://www.parrot.com/it/s3/files/styles/midwidth_bg/public/backgrounds/landing_page_anafi_1280x7680p_new2_12.jpg?itok=7I46iNvD&timestamp=1586072159 640w
+
+#Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GloamEbirag?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------------------
+
+# DJI Ryze Tello
+
+https://www.techguide.com.au/wp-content/uploads/2018/05/TelloReview2-750x430.jpg
+
+
+#Video<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZSVE73N5LXs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+-----------------------------
+
+Yuneec Mantis Q
+
+https://www.yuneec.com/assets/images/3/Mantis-Q-foldable-camera-drone-0f97d5eb.jpg
+
+#Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Emu1ndRcnws?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> a2ced3a7d846f0efabff6bda0af5bb20d34dd664
